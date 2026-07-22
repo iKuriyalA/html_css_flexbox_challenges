@@ -13,3 +13,7 @@ div {
 	border: 5px solid black;
 	display: flex;
 }
+
+#one{
+	flex-direction: row-reverse;
+}
